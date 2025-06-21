@@ -35,7 +35,7 @@ An AI-powered pipeline designed for automated content transformation and intelli
 2.  Run the project :
    bash
    python main.py
-> Make sure you have Python and Playwright installed correctly. Chromium will auto-install on first run.
+ Make sure you have Python and Playwright installed correctly. Chromium will auto-install on first run.
 	Output
   Content from the URL is scraped and processed
   Final version is saved in ChromaDB
