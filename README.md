@@ -41,6 +41,7 @@ An AI-powered pipeline designed for automated content transformation and intelli
   Content from the URL is scraped and processed
   Final version is saved in ChromaDB
   You can run RL search to fetch the most relevant version
+Demo Video: https://drive.google.com/file/d/1mI2RuTEt8enU-HtTsusiA054DDOQ3Jxp/view?usp=sharing
 Developed By-
 Muskan Singh 
 BTech CSE-AIML
